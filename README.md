@@ -1,7 +1,6 @@
 # kholiodev
-My GitHub profile README and automation portfolio.
 # Hi, I'm Yousef Khaled
-
+My GitHub profile README and automation portfolio.
 I'm a second-year Computer Science student from Egypt.
 
 I have a foundation in **C++**, and I'm currently learning how to build practical automation workflows using **n8n, APIs, JavaScript, and Python**.
